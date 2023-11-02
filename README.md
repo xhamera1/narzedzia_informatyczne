@@ -39,3 +39,4 @@ for rekord in dane:
     print(f"{imie:<10} {wiek:<5} {miasto:<10}")
 ```
 
+![](animals/dog.jpeg)
