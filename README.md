@@ -33,3 +33,4 @@ Przykładowa tabela:
 
 ![](animals/dog.jpeg)
 ![](animals/coco.jpeg)
+Na obrazku jest kot o imieniu Coco
