@@ -22,21 +22,13 @@ Program hello world:
 print("Hello, World!")
 ```
 Przykładowa tabela: 
-```python
-dane = [
-    ["Anna", 25, "Warszawa"],
-    ["Jan", 30, "Kraków"],
-    ["Marta", 22, "Poznań"],
-]
-
-# Wyświetlenie nagłówków kolumn
-print(f"{'Imię':<10} {'Wiek':<5} {'Miasto':<10}")
-print("-" * 30)
-
-# Wyświetlenie danych w tabeli
-for rekord in dane:
-    imie, wiek, miasto = rekord
-    print(f"{imie:<10} {wiek:<5} {miasto:<10}")
-```
+<table>
+    <tr>
+        <td>Ta</td><td>be</td><td>la</td>
+    </tr>
+    <tr>
+        <td>przyk</td><td>lad</td><td>owa</td>
+    </tr>
+</table>
 
 ![](animals/dog.jpeg)
