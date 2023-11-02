@@ -32,3 +32,4 @@ Przykładowa tabela:
 </table>
 
 ![](animals/dog.jpeg)
+![](animals/coco.jpeg)
