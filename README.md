@@ -1,7 +1,7 @@
 # narzedzia_informatyczne
 Moje repozytorium 
 
-Przykładowy tekst
+Przykładowy tekst zmiana 1
 
 https://pl.wikipedia.org/wiki/Robert_Lewandowski 
 
